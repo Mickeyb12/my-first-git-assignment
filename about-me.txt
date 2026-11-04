@@ -1,0 +1,9 @@
+My First GitHub Assignment
+
+My name is Michael Budu-Biney.
+
+This is my first practical assignment on Git and GitHub.
+
+I have successfully created a GitHub repository,
+cloned it to my local machine, edited a file,
+and pushed my changes back to GitHub.
